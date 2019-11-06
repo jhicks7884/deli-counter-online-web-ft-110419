@@ -1,2 +1,8 @@
-# Write your code here.
-katz_deli = []
+var katz_deli = [];
+
+function currentLine(line){
+  if(!line.length) {
+    return "The line is currently empty.";
+  }
+
+
