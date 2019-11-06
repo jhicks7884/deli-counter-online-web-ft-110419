@@ -10,7 +10,7 @@ end
 
 take_a_number(katz_deli, "Grace")
 take_a_number(katz_deli, "Tom")
-take_a_number(katz_deli, "Alan")
+take_a_number(katz_deli, "bob")
 
 def line(array)
   if array.length == 0
