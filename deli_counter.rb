@@ -8,9 +8,9 @@ def take_a_number(array, name)
   return name, position
 end
 
-take_a_number(katz_deli, "Grace")
+take_a_number(katz_deli, "Susie")
 take_a_number(katz_deli, "Tom")
-take_a_number(katz_deli, "bob")
+take_a_number(katz_deli, "Bob")
 
 def line(array)
   if array.length == 0
@@ -36,4 +36,4 @@ def now_serving(array)
   end
 end
 
-now_serving(katz_deli)
+now_serving(katz_deli
